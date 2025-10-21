@@ -1,0 +1,62 @@
+{
+  "appTitle": "Social Support Application",
+  "progressTitle": "Application Progress",
+  
+  "steps": {
+    "step1": "Personal Information",
+    "step2": "Family & Financial Info",
+    "step3": "Situation Descriptions"
+  },
+
+  "personalInfo": {
+    "title": "Personal Information",
+    "name": "Full Name",
+    "nationalId": "National ID",
+    "dob": "Date of Birth",
+    "gender": "Gender",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "phone": "Phone",
+    "email": "Email"
+  },
+
+  "familyInfo": {
+    "title": "Family & Financial Information",
+    "maritalStatus": "Marital Status",
+    "dependents": "Number of Dependents",
+    "employmentStatus": "Employment Status",
+    "monthlyIncome": "Monthly Income (USD)",
+    "housingStatus": "Housing Status"
+  },
+
+  "situationInfo": {
+    "title": "Situation Descriptions",
+    "financialSituation": "Current Financial Situation",
+    "employmentCircumstances": "Employment Circumstances",
+    "reasonForApplying": "Reason for Applying",
+    "helpMeWrite": "Help Me Write ✨"
+  },
+
+  "buttons": {
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "discard": "Discard",
+    "accept": "Accept",
+    "regenerate": "Regenerate"
+  },
+
+  "ai": {
+    "title": "AI Suggestion",
+    "loading": "Generating suggestion...",
+    "error": "AI Assistance failed. Please try again.",
+    "regenerateError": "Unable to regenerate text. Try again later."
+  },
+
+  "success": {
+    "title": "Application Submitted Successfully!",
+    "message": "Thank you for submitting your application. Our team will review it shortly."
+  }
+}
